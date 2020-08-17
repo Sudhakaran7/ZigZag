@@ -1,0 +1,54 @@
+You are given with a string "PAYPALISHIRING" and N number of rows,
+and print the string in N rows in zigzag manner, for example, the given string is, "PAYPALISHIRING" and N=3
+
+P   A   H   N
+A P L S I I G
+Y   I   R
+
+And then read line by line: "PAHNAPLSIIGYIR"
+Print the string after converting into Nth zigzag manner pattern.
+
+Input Description:
+N the number of rows.(1<N<10)
+
+Output Description:
+Print the string after converting into Nth zigzag manner pattern.
+
+Sample Input:
+3
+
+Sample Output:
+PAHNAPLSIIGYI
+
+Explanation:
+Check for the explanation given in the question for better understanding.
+
+Sample Input:
+2
+
+Sample Output:
+PYAIHRNAPLSIIG
+
+Sample Input:
+4
+
+Sample Output:
+PINALSIGYAHRPI
+
+Sample Input:
+5
+
+Sample Output:
+PHASIYIRPLIGAN
+
+Sample Input:
+6
+
+Sample Output:
+PRAIIYHNPSGAIL
+
+Sample Input:
+7
+
+Sample Output:
+PNAIGYRPIAHLSI
